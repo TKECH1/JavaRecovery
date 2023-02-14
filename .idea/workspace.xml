@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac37045b-39e2-4cc4-9043-6c5f42bab729" name="Changes" comment="Handled case of non-existent ID;">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DB/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DB/DbFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB/DbFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DB/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DB/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Logining/Password.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Logining/Password.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DB/Admin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DB/Admin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DB/DbFunctions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DB/DbFunctions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DB/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DB/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Logining/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Logining/Password.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2LMI3m1aHR2BQq5R5T6kzERbR6f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alikhan/Desktop/NewJavaLogin&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.obiscr.chatgpt.settings.ChatGPTSettingsPanel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="NewJavaLogin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac37045b-39e2-4cc4-9043-6c5f42bab729" name="Changes" comment="" />
+      <created>1675674328355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675674328355</updated>
+      <workItem from="1675674329436" duration="1785000" />
+      <workItem from="1675830724666" duration="1392000" />
+      <workItem from="1675832806286" duration="2184000" />
+      <workItem from="1675836197547" duration="3715000" />
+      <workItem from="1675868850530" duration="1772000" />
+      <workItem from="1675870716465" duration="26000" />
+      <workItem from="1675870781302" duration="20000" />
+      <workItem from="1675870832398" duration="2880000" />
+      <workItem from="1675923993959" duration="748000" />
+      <workItem from="1675924784946" duration="12349000" />
+      <workItem from="1675937880771" duration="91000" />
+      <workItem from="1675937991628" duration="5505000" />
+      <workItem from="1676002078250" duration="12363000" />
+      <workItem from="1676024471723" duration="3533000" />
+      <workItem from="1676088525905" duration="5289000" />
+      <workItem from="1676120131588" duration="8725000" />
+      <workItem from="1676175312613" duration="3441000" />
+      <workItem from="1676186117298" duration="15168000" />
+      <workItem from="1676253669149" duration="55000" />
+      <workItem from="1676255527537" duration="3842000" />
+      <workItem from="1676268154171" duration="817000" />
+      <workItem from="1676345095538" duration="233000" />
+      <workItem from="1676346897206" duration="611000" />
+      <workItem from="1676347517858" duration="762000" />
+      <workItem from="1676348486952" duration="177000" />
+      <workItem from="1676386726465" duration="883000" />
+    </task>
+    <task id="LOCAL-00001" summary="Registration system is done&#10;Loginning system in process">
+      <created>1675950331357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675950331357</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the ability to send code to different mailboxes">
+      <created>1676194416438</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676194416438</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added the function of registering and adding users with different implementations for the Admin and the user">
+      <created>1676201930155</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676201930155</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Minor changes">
+      <created>1676202091437</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676202091437</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Handled case of non-existent ID;">
+      <created>1676258841614</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676258841615</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Registration system is done&#10;Loginning system in process" />
+    <MESSAGE value="added the ability to send code to different mailboxes" />
+    <MESSAGE value="Added the function of registering and adding users with different implementations for the Admin and the user" />
+    <MESSAGE value="Minor changes" />
+    <MESSAGE value="Handled case of non-existent ID;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Handled case of non-existent ID;" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.postgresql.util.PSQLException" package="org.postgresql.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
